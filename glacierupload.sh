@@ -8,7 +8,7 @@
 byteSize=4194304
 
 # TODO use args
-valutName=$1
+vaultName=$1
 archiveDescription=backup
 profile=backupper
 region=eu-west-1
